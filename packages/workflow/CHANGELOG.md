@@ -1,5 +1,15 @@
 # workflow
 
+## 4.0.1-beta.8
+
+### Patch Changes
+
+- Updated dependencies [652485a]
+- Updated dependencies [2363e47]
+  - @workflow/cli@4.0.1-beta.8
+  - @workflow/nitro@4.0.1-beta.8
+  - @workflow/next@4.0.1-beta.8
+
 ## 4.0.1-beta.7
 
 ### Patch Changes

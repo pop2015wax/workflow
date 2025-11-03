@@ -1,5 +1,13 @@
 # @workflow/cli
 
+## 4.0.1-beta.8
+
+### Patch Changes
+
+- 652485a: Create @workflow/builders package with shared builder infrastructure
+- Updated dependencies [652485a]
+  - @workflow/builders@4.0.1-beta.4
+
 ## 4.0.1-beta.7
 
 ### Patch Changes

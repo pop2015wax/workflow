@@ -1,5 +1,13 @@
 # @workflow/next
 
+## 4.0.1-beta.8
+
+### Patch Changes
+
+- 2363e47: Move NextBuilder to @workflow/next package
+- Updated dependencies [652485a]
+  - @workflow/builders@4.0.1-beta.4
+
 ## 4.0.1-beta.7
 
 ### Patch Changes
